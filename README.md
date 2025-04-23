@@ -57,7 +57,7 @@ Um aplicativo Android desenvolvido com ❤️ no **Android Studio** para facilit
 ## 📥 **Download & Contribuição**  
 🔗 *Link para o APK (em breve)* | *Repositório no GitHub (em breve)*  
 
-**Desenvolvido por [Seu Nome]** – Um apaixonado por IoT e Android!  
+**Desenvolvido por Vinicius Moreira Nascimento** – Um apaixonado por IoT e Android!  
 
 ---  
 
